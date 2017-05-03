@@ -3,7 +3,7 @@
 
 ### Names
 - Erika Garces 118047
-- Anton Kliuye 118026
+- Anton Kliuyeu 118026
 
 ### Screenshot
 ![Alt text](./screenshot.jpg?raw=true "Screenshot")
